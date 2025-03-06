@@ -1,4 +1,4 @@
-# *<p align="center">Hello, I'm <a href="#">Miyad Islam Nion</a>! 👋</p>*  
+# *<p align="center">Assalamuwalaikum, I'm <a href="#">Miyad Islam Nion</a>! 👋</p>*  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Professional+Web+Developer;Python+Automation+%7C+Selenium+%7C+Appium;Machine+Learning+Enthusiast;Web+Scraping+%7C+Bots+%7C+Custom+Solutions;Let's+Build+Something+Awesome!">
 </p>  
@@ -16,19 +16,21 @@
 
 ## 🛠️ Technologies & Tools  
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)  
-![Appium](https://img.shields.io/badge/-Appium-333?style=flat&logo=appium)  
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)  
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)  
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)  
-![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium" />
+  <img src="https://img.shields.io/badge/-Appium-333?style=flat&logo=appium" />
+  <img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-Linux-333?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Figma-333?style=flat&logo=figma" />
+</p>
 
 ---
 
