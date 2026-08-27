@@ -48,7 +48,7 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyad-islam&theme=dark&hide_border=true&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miyad-islam&theme=dark&hide_border=true&show_icons=true" alt="Miyad Islam's GitHub Stats" />
 </p>
 
 
